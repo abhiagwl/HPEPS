@@ -1,0 +1,8 @@
+*.egg-info/
+*.py[cdo]
+**/logs
+**/runs
+**mnist
+build/
+dist/
+shahfcn/
